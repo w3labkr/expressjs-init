@@ -1,6 +1,6 @@
-# node-express-ejs
+# Node Express Init
 
-Express starter project
+Node express server starter project.
 
 ## Demo
 
