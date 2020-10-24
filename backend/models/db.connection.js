@@ -6,8 +6,8 @@
  * const { base: db, pool: dbPool } = require('./models/db.connection');
  *
  * @package W3LabKr
- * @subpackage Node_Express_Init
- * @since Node Express Init 1.0.0
+ * @subpackage Express_Init
+ * @since Express Init 1.0.0
  */
 const mysql = require("mysql2/promise");
 const path = require("path");

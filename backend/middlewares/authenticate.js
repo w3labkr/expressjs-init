@@ -8,8 +8,8 @@
  * router.get('/', isLogin, (req, res, next) => { ... });
  *
  * @package W3LabKr
- * @subpackage Node_Express_Init
- * @since Node Express Init 1.0.0
+ * @subpackage Express_Init
+ * @since Express Init 1.0.0
  */
 const authenticate = {};
 

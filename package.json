@@ -1,7 +1,7 @@
 {
-  "name": "node-express-init",
+  "name": "expressjs-init",
   "version": "1.0.0",
-  "description": "Node Express server starter project.",
+  "description": "Expressjs server starter project",
   "main": "backend/app.js",
   "scripts": {
     "start": "nodemon backend/app.js"
