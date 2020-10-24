@@ -4,7 +4,7 @@ Node express server starter project.
 
 ## Demo
 
-Check out the [demo](https://fwlym.sse.codesandbox.io/) at codesandbox.
+Check out the [demo](https://codesandbox.io/s/node-express-init-h7nlx) at codesandbox.
 
 ## Directory Structure
 
