@@ -4,7 +4,7 @@ Expressjs server starter project.
 
 ## Demo
 
-Check out the demo at [codesandbox](https://codesandbox.io/s/expressjs-init-h7nlx).
+Check out the demo at [codesandbox](https://codesandbox.io/s/expressjs-init-619iq).
 
 ## Directory Structure
 
