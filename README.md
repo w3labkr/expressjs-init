@@ -1,10 +1,10 @@
-# Node Express Init
+# Expressjs Init
 
-Node express server starter project.
+Expressjs server starter project.
 
 ## Demo
 
-Check out the demo at [codesandbox](https://codesandbox.io/s/node-express-init-h7nlx).
+Check out the demo at [codesandbox](https://codesandbox.io/s/expressjs-init-h7nlx).
 
 ## Directory Structure
 
