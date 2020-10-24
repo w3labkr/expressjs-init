@@ -1,3 +1,10 @@
+/**
+ * Main Script
+ *
+ * @package W3LabKr
+ * @subpackage Node_Express_Init
+ * @since Node Express Init 1.0.0
+ */
 const express = require("express");
 const path = require("path");
 const bodyParser = require("body-parser");
